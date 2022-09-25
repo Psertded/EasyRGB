@@ -33,6 +33,8 @@ Now that you can get it directly, you can also edit the RGB pixels directly!(the
 
 ### Here is an example
 
+[Click me to view](main.cpp)
+
 ```
 #include "EasyRGB.h"
 #include <conio.h>
