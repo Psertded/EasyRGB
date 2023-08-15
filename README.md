@@ -6,9 +6,6 @@
 >
 > [Press ME to download the setup](https://easyx.cn/download/EasyX_20220901.exe)
 
-This project is very simple, isn't it? In the future, I will try to implement the function of drawing graphics directly in it (or implement some functions of the original EasyX).<br>
-This program can convert a normal bitmap into a bitmap where each RGB pixel is visible.
-
 ## Warnings
 
 >- Please use Release to compile, otherwise the window may not be found.
